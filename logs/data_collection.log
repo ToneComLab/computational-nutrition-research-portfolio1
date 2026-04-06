@@ -1,0 +1,4 @@
+USDA: 'list' object has no attribute 'get'
+WHO NUTRITION_HA_1: 404 Client Error: Not Found for url: https://ghoapi.azureedge.net/api/NUTRITION_HA_1
+WHO NUTRITION_HA_2: 404 Client Error: Not Found for url: https://ghoapi.azureedge.net/api/NUTRITION_HA_2
+FAIL https://raw.githubusercontent.com/selva86/datasets/master/nutrition.csv -> C:\Users\HighTech\Desktop\elite_research_portfolio\data\raw\open_nutrition.csv: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/selva86/datasets/master/nutrition.csv
